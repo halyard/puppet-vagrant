@@ -13,4 +13,6 @@ class vagrant (
     provider => 'brewcask',
     require  => Homebrew::Tap['halyard/casks']
   }
+
+  ruby_gem { ['ruby-keychain', 'linodeapi']: }
 }
