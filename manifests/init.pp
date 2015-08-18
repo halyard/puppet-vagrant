@@ -9,7 +9,7 @@
 #
 class vagrant (
 ) {
-  package { 'vagrant-halyard':
+  package { 'vagrant':
     provider => 'brewcask',
     require  => Homebrew::Tap['halyard/casks']
   }
