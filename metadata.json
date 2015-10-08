@@ -1,0 +1,22 @@
+{
+  "name": "halyard-vagrant",
+  "version": "0.1.0",
+  "author": "Les Aker",
+  "license": "MIT",
+  "summary": "Configure vagrant via Boxen",
+  "source": "https://github.com/halyard/puppet-vagrant",
+  "project_page": "https://github.com/halyard/puppet-vagrant",
+  "issues_url": "https://github.com/halyard/puppet-vagrant/issues",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Darwin",
+      "operatingsystemmajrelease": [
+        "14",
+        "15"
+      ]
+    }
+  ]
+}
