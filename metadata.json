@@ -1,6 +1,6 @@
 {
   "name": "halyard-vagrant",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Les Aker",
   "license": "MIT",
   "summary": "Configure vagrant via Boxen",
